@@ -37,7 +37,7 @@ Service documentation clearly describes the service that is being developed. It 
 * System admin documentation: This is where we state our environment-specific resources (i.e staging and production works on live DB). Besides, scheduled tasks should be stated at this section.
 
 ## Process Documentation
-Process documentation should contain the evolution of the service. For instance, the new feature user stories should be under this section.
+Process documentation should contain information about the evolution of the service. For instance, the new feature user stories should be under this section.
 
 * Functional Analysis: This is where we state the use cases.
 * Scheduled Test Reports: This is where we state the important metrics of the scheduled tests. (Like load-tests)
