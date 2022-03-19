@@ -7,12 +7,13 @@ Project documentation should
 
 Here is an example content:
 
-| Project Name  | Lorem Ipsum |
-|---------------|-------------|
-| Project Owner | Team or PO  |
-| Analyst       | @yyy @ttt   |
-| Developers    | @zzz @aaa   |
-| QA            | @bbb @ccc   |
+| Project Name     | Lorem Ipsum |
+|------------------|-------------|
+| Project Owner    | Team or PO  |
+| Analyst          | @yyy @ttt   |
+| Developers       | @zzz @aaa   |
+| QA               | @bbb @ccc   |
+| Point of Contact | @person     |
 
 
 ![Project Documentation Structure](https://github.com/Poseid10ur/archive/blob/main/resources/images/documentation-structure-20220319.png?raw=true)
