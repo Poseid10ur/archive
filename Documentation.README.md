@@ -16,7 +16,7 @@ Here is an example content:
 | Point of Contact | @person     |
 
 
-![Project Documentation Structure](https://github.com/Poseid10ur/archive/blob/main/resources/images/documentation-structure-20220319.png?raw=true)
+![Project Documentation Structure](https://github.com/kapozade/archive/blob/main/resources/images/documentation-structure-20220319.png?raw=true)
 
 
 Project documentation can be mainly categorized as 
